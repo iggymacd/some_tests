@@ -1,0 +1,10 @@
+[project]
+server = 'localhost'
+username = 'admin'
+password = 'admin'
+root = 'c:\Datacert'
+
+[environment]
+name = 'local dev'
+passport_version = '20.x.x'
+cp_enabled = 'false'
