@@ -1,5 +1,5 @@
 [project]
-server = 'localhost'
+server = '127.0.0.1'
 username = 'admin'
 password = 'admin'
 root = 'c:\Datacert'
