@@ -8,4 +8,4 @@ root = 'c:\Datacert'
 [environment]
 name = 'local dev'
 passport_version = '18.2'
-cp_enabled = 'false'
+cp_enabled = 'true'
