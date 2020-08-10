@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <testsuites>
-  <testsuite name='suite-1' tests='1' failures='0' time='0.001'>
-    <testcase classname='name' name='simple skip' time='0.001'>
+  <testsuite name='suite-1' tests='1' failures='0' time='0.004'>
+    <testcase classname='name' name='simple skip' time='0.004'>
       <skipped message='test was skipped' />
     </testcase>
   </testsuite>

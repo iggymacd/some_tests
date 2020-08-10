@@ -1,5 +1,5 @@
 test('simple skip',{
-    println 'skipping message'
+    println 'skipping message again'
     skip()
 })
 
