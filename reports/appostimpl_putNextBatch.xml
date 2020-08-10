@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites>
+  <testsuite name='suite-1' tests='1' failures='0' time='0.027'>
+    <testcase classname='name' name='putNextBatch ideal' time='0.027' />
+  </testsuite>
+</testsuites>

@@ -81,3 +81,5 @@ test 'putNextBatch ideal',{
     assert result != null
     assert result.size() == 2 //there are 2 records is test data, so expect 2 rows processed in 
 }
+
+report()
