@@ -35,6 +35,14 @@ def benchmark = { name="",clsr={} ->
   
 def testSuite = [:]
 def scriptClassName = this.getClass()
+
+def skip = {
+    skipMessage = 'test was skipped' ->
+    return [
+        'skipped':['message':(skipMessage?:'')],
+    ]
+}
+
 def test = { def testName, def clsr -> 
   def testcase = [
     // classname:delegate.class?.name,

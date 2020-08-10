@@ -1,5 +1,6 @@
 [project]
-server = 'host.docker.internal'
+server = 'localhost'
+# server = 'host.docker.internal'
 username = 'admin'
 password = 'admin'
 root = 'c:\Datacert'

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites>
+  <testsuite name='suite-1' tests='7' failures='0' time='0.004'>
+    <testcase classname='name' name='check cp client certificate exists' time='0.002'>
+      <skipped message='Collaboration Portal not enabled.' />
+    </testcase>
+    <testcase classname='name' name='check connection to tunnel status is on' time='0'>
+      <skipped message='Collaboration Portal not enabled.' />
+    </testcase>
+    <testcase classname='name' name='check COA scheduled jobs are active' time='0'>
+      <skipped message='Collaboration Portal not enabled.' />
+    </testcase>
+    <testcase classname='name' name='check log4j COA settings' time='0'>
+      <skipped message='Collaboration Portal not enabled.' />
+    </testcase>
+    <testcase classname='name' name='check COA autotunnel setting' time='0.001'>
+      <skipped message='Collaboration Portal not enabled.' />
+    </testcase>
+    <testcase classname='name' name='check version of passport' time='0.001' />
+    <testcase classname='name' name='check for clustering enabled' time='0'>
+      <skipped message='Collaboration Portal not enabled.' />
+    </testcase>
+  </testsuite>
+</testsuites>
