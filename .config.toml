@@ -1,5 +1,5 @@
 [project]
-server = '127.0.0.1'
+server = 'host.docker.internal'
 username = 'admin'
 password = 'admin'
 root = 'c:\Datacert'
